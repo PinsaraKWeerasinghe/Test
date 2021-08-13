@@ -2,6 +2,7 @@ package test.pnx.userprofile;
 
 public class Test2 {
     public static void main(String[] args) {
+        String sss="";
         String dtring=":old.company_id,\n" +
                 "                :old.parent_company_id,\n" +
                 "                :old.company_code,\n" +
